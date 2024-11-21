@@ -2,14 +2,14 @@
 Este proyecto consiste en una página web básica para practicar el uso de CSS y comandos de Git, así como la publicación de proyectos mediante GitHub Pages.
 
 ## Objetivo
---**Crear un proyecto con HTML y una hoja de estilos externa.**
---**Practicar la creación de repositorios locales y remotos.**
---**Publicar el proyecto en GitHub Pages.**  
+1. Crear un proyecto con HTML y una hoja de estilos externa.
+2. Practicar la creación de repositorios locales y remotos.
+3. Publicar el proyecto en GitHub Pages.  
 
 ## Estrutura del proyecto
 
---**index.html :  Archivo principal de la página web**
--- **styles.css:  Archivo de estilos externos en CSS** 
+1. index.html :  Archivo principal de la página web
+2. styles.css:  Archivo de estilos externos en CSS 
 
 ## Cómo Utilizar
 
